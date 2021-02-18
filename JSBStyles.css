@@ -14,6 +14,28 @@
     color: #c2d5ec;
 } 
 .nav-bar{
+    width: 180px;
     background-color: #297d8c;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
     
+} 
+.mainContent{
+    width: 720px;
+    background-color: black;
+    border-radius: 10px;
+    color: #c2d6ec;
+    display: inline-block;
+}
+a{
+    color: #c2d6ec;
+}
+ul{
+    color: #c2d6ec;
+}
+.footer{
+    background-color: #297d8c;
+    border-radius: 10px;
 }
