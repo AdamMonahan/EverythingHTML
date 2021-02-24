@@ -1,0 +1,43 @@
+.body{
+    margin: 0px;
+    margin: 0px;
+    font-family: Arial;
+}
+
+.container{
+    width: 970px;
+    height: 1000px;
+    background-color: #f4f4f4;
+}
+
+.header{
+    width: 970px;
+    height: 30px;
+    padding: 15px;
+}
+.header h2{
+    display: inline-block;
+    margin-right: 500px;
+}
+.header h3{
+    display: inline-block;   
+}
+
+.main-content{
+    width: auto;
+    background-color: #1a0a0e;
+    padding: 20px;
+}
+.main-content img{
+    width: 410px;
+    height: 300px;
+    display: inline-block;
+    border: 5px solid #c0c0c0;
+}
+.main-content .about_me{
+    width: 410px;
+    height: 300px;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+}
